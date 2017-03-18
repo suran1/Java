@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/checkout4/Downloads/activation-2.1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/checkout4/Downloads/dsn.jar"/>
+	<classpathentry kind="lib" path="/Users/checkout4/Downloads/EmailSender.jar"/>
+	<classpathentry kind="lib" path="/Users/checkout4/Downloads/gimap.jar"/>
+	<classpathentry kind="lib" path="/Users/checkout4/Downloads/imap.jar"/>
+	<classpathentry kind="lib" path="/Users/checkout4/Downloads/mail.jar"/>
+	<classpathentry kind="lib" path="/Users/checkout4/Downloads/mailapi.jar"/>
+	<classpathentry kind="lib" path="/Users/checkout4/Downloads/pop3.jar"/>
+	<classpathentry kind="lib" path="/Users/checkout4/Downloads/smtp.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
